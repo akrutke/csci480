@@ -3,6 +3,7 @@ Andrew Krutke
 CSCI480 Operating Systems
 Due
 File for output
+Not fully implemented
 ***********************************************/
 #include <iostream>
 #include <iomanip>
